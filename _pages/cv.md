@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+Full CV available as PDF [here]{/files/CV.pdf}.
+
 Education
 ======
 * PhD in Engineering (Computer Science), Tennessee Technological University, 2023
@@ -20,6 +22,7 @@ Education
 * B.S. in Computer Science (Data Science), Tennessee Technological University, 2018
   * Cumulative GPA: 3.96/4.0
   * <i>Summa Cum Laude</i>
+
 Work experience
 ======
 * Summer 2015: Research Assistant
