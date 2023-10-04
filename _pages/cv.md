@@ -25,24 +25,32 @@ Education
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Vanderbilt University Medical Center, August 2023 - Present
+  * Postdoctoral Research Fellow Trainee. Department of Biomedical Informatics.
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
+* Oak Ridge National Laboratory, June 2017 - August 2017
+  * Research Intern (HERE Program). Biomedical Computing Division.
+
+* Tennessee Technological University, August 2015 - May 2023
+  * PhD Student Mentor (Graduate Research Assistant). Department of Computer Science. (August 2022 - July 2023).
+  * Machine Learning Consultant (Graduate Research Assistant). College of Engineering. (August 2022 - May 2023).
+  * Teaching Assistant. Department of Computer Science. (August 2021 - May 2022).
+  * Research Assistant. Department of Computer Science and Office of Research and Creative Inquiry. (August 2018 - May 2021).
+
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Research Methodology
+  * Predictive Modeling
+  * Machine Learning and Deep Learning
+  * Data Visualization and Analytics
+* Programming Languages
+  * Python, R, Java, C++, NoSQL, MySQL, PostgreSQL
+* Software and Tools
+  * Machine and Deep Learning: Scikit-Learn, Keras, PyTorch, Weka
+  * Scientific Computing: Pandas, SciPy, NumPy, Matplotlib
+  * Version Control: Git, Github
+  * Dashboarding: Splunk, Splunk ITSI
+
 
 Publications
 ======
