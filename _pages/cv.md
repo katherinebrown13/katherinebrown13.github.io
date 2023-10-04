@@ -11,10 +11,15 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-
+* PhD in Engineering (Computer Science), Tennessee Technological University, 2023
+  * Dissertation Title: <i>Evaluating, Explaining, and Utilizing Model Uncertainty in High-Performing, Opaque Machine Learning Models</i>
+  * Advisor: Dr. Doug Talbert
+* M.S. in Computer Science, Tennessee Technological University, 2021
+  * Cumulative GPA: 4.0/4.0
+  * Advisor: Dr. Doug Talbert
+* B.S. in Computer Science (Data Science), Tennessee Technological University, 2018
+  * Cumulative GPA: 3.96/4.0
+  * <i>Summa Cum Laude</i>
 Work experience
 ======
 * Summer 2015: Research Assistant
