@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-Full CV available as PDF [here]{/files/CV.pdf}.
+Full CV available as PDF <a href="/files/CV.pdf">here</a>
 
 Education
 ======
@@ -70,6 +70,13 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
+Service and Leadership
 ======
-* Currently signed in to 43 different slack teams
+* Florida Artificial Intelligence Research Society. Track Co-Chair: Artificial Intelligence in Health Informatics Special Track. (August 2023 - )
+* <i> Journal of the American Medical Informatics Association</i> Student Editorial Board. Member. (January 2022 - December 2023).
+* Committees and Student Organizations at Tennessee Technological University:
+  * Graduate Studies Executive Committee. (August 2022 - May 2023).
+  * Data Science League. (September 2018 - May 2022).
+  * Computer Science Graudate Student Club. (September 2019 - September 2021).
+  * Department of Computer Science Student Advisory Council (September 2018 - September 2021).
+  * ACM-W Chapter. (August 2015 - May 2019)
