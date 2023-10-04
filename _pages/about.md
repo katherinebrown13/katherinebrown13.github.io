@@ -18,3 +18,4 @@ Recent News
   <li> <b>[July 2023]</b> I sucessfully defended my dissertation <i>Evaluating, Explaining, AND Utilizing Model Uncertainty in High-Performing, Opaque Machine Learning Models</i> and graduated with my PhD in Engineering (Computer Science).</li>
 </ul>
 
+Full CV available as PDF <a href="/files/CV.pdf">here</a>
