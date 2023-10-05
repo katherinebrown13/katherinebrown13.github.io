@@ -11,8 +11,7 @@ redirect_from:
 
 Full CV available as PDF <a href="/files/CV.pdf">here</a>
 
-Education
-======
+# Education
 * PhD in Engineering (Computer Science), Tennessee Technological University, 2023
   * Dissertation Title: <i>Evaluating, Explaining, and Utilizing Model Uncertainty in High-Performing, Opaque Machine Learning Models</i>
   * Advisor: Dr. Doug Talbert
@@ -23,8 +22,7 @@ Education
   * Cumulative GPA: 3.96/4.0
   * <i>Summa Cum Laude</i>
 
-Work experience
-======
+# Work experience
 * Vanderbilt University Medical Center, August 2023 - Present
   * Postdoctoral Research Fellow Trainee. Department of Biomedical Informatics.
 * Oak Ridge National Laboratory, June 2017 - August 2017
@@ -35,8 +33,7 @@ Work experience
   * Teaching Assistant. Department of Computer Science. (August 2021 - May 2022).
   * Research Assistant. Department of Computer Science and Office of Research and Creative Inquiry. (August 2018 - May 2021).
 
-Skills
-======
+# Skills
 * Research Methodology
   * Predictive Modeling
   * Machine Learning and Deep Learning
@@ -50,29 +47,30 @@ Skills
   * Dashboarding: Splunk, Splunk ITSI
 
 
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
+# Publications
+  <ul style="width: auto; height: 600px; overflow: auto">{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+    {% endfor %}</ul>
   
-
-Talks
-======
+# Talks
   <ul>{% for post in site.talks reversed %}
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
   
 
-Teaching
-======
+# Teaching
   <ul>{% for post in site.teaching reversed %}
     {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+  {% endfor %}</ul> 
   
+# Awards and Honors
+* Best Student Paper Award: Florida Artificial Intelligence Research Symposium, May 2020.
+* Runner-up Best Paper Award: Association of Computing Machinery 2019 Southeast Conference, April 2019
+* Research and Creative Inquiry Award Winner (TIE): Tennessee Technological University, April 2019
+* Research and Creative Inquiry Award Winner: Tennessee Technological University, April 2018
+* Engineering, Computing, and Technology Spectrum Award: Tennessee Technological University College of Engineering, February 2018
 
-Service and Leadership
-======
+# Service and Leadership 
 * Florida Artificial Intelligence Research Society. Track Co-Chair: Artificial Intelligence in Health Informatics Special Track. (August 2023 - )
 * <i> Journal of the American Medical Informatics Association</i> Student Editorial Board. Member. (January 2022 - December 2023).
 * Committees and Student Organizations at Tennessee Technological University:

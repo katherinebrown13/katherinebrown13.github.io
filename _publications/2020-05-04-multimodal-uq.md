@@ -2,7 +2,7 @@
 title: "Uncertainty Quantification in Multimodal Ensembles of Deep Learners"
 collection: publications
 permalink: /publication/2020-05-04-multimodal-uq
-excerpt: 'This paper discusses how uncertainty quantification can be performed in multimodal deep learning.'
+excerpt: 'This paper won the Best Student Paper Award at the FLAIRS-33 conference! This paper discusses how uncertainty quantification can be performed in multimodal deep learning.'
 date: 2020-05-04
 venue: 'FLAIRS-33'
 paperurl: 'http://academicpages.github.io/files/FLAIRS20_uncertainty.pdf'
