@@ -1,0 +1,15 @@
+---
+title: "Semantic Segmentation with Multispectral Satellite Images of Waterfowl Habitat"
+collection: publications
+permalink: /publication/2023-05-04-waterfowl
+excerpt: 'Work by Mateo on semantic segmentation of waterfowl habitats.'
+date: 2023-05-04
+venue: 'FLAIRS-36'
+paperurl: 'https://journals.flvc.org/FLAIRS/article/view/133331'
+citation: 'Gannod M, Masto N, Owusu C, Highway C, Brown KE, Blake-Bradshaw A, Feddersen JC, Hagy HM, Talbert DA, Cohen B. &quot;Semantic Segmentation with Multispectral Satellite Images of Waterfowl Habitat.&quot; <i>Proceedings of the Florida Artificial Intelligence Research Society (FLAIRS-36)</i>, 2023.'
+---
+Migratory waterfowl (i.e., ducks, geese, and swans)management relies on landscape bioenergetic modelsto inform on-the-ground habitat conditions and conser-vation practices. Therefore, conservation planners relyon accurate predictions of wetland habitats for water-fowl at regional scales. Unharvested flooded corn is apopular management tool on public and private landsthat greatly increases landscape-level energy comparedto other wetlands; thus, landscape bioenergetic mod-els are particularly sensitive to these habitat features.D espite their importance to conservation planning andimplementation, the abundance and distribution of un-harvested flooded corn fields across North America isunknown. Furthermore, training data is difficult to col-lect and accurate predictions are challenging given theirunique attributes and discreteness at landscape-levellens. Advances in multispectral imagery and deep learn-ing algorithms may enable continuous and autonomousdetection of these habitat features. Therefore, we con-ducted modeling experiments using training data of un-harvested flooded corn fields in West Tennessee andmultispectral imagery collected from Sentinel-2 satel-lite missions. We performed several experiments usingindividual band combination composites and/or vegeta-tion indices to identify optimal bands using MRUNETarchitectures. We subsequently used 3 ensemble mod-els of important individual networks. We found the useof multispectral bands was necessary and although theCIR composite and OSAVI index improved precision,the 12-band composite increased recall, the metric wewere most interested in. Moreover, all ensembles exhib-ited poor performance. Here, we present results of ourinitial modeling experiments and suggest future model-ing exercises including temporal image and vegetationindex stacking using multi-modal and/or recurrent neu-ral network architectures.
+
+[Download paper here.](https://journals.flvc.org/FLAIRS/article/view/133331)
+
+Recommended citation: Gannod M, Masto N, Owusu C, Highway C, Brown KE, Blake-Bradshaw A, Feddersen JC, Hagy HM, Talbert DA, Cohen B. “Semantic Segmentation with Multispectral Satellite Images of Waterfowl Habitat.” <i>Proceedings of the Florida Artificial Intelligence Research Society (FLAIRS-36)</i>, 2023.
