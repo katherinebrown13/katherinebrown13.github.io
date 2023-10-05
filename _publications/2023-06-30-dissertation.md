@@ -1,7 +1,7 @@
 ---
 title: "Evaluating, Explaining, and Utilizing Model Uncertainty in High-Performing, Opaque Machine Learning Models"
 collection: publications
-permalink: /publication/dissertation
+permalink: /publication/2023-06-30-dissertation
 excerpt: 'My dissertation on evaluating, explaining, and utilizing uncertainty in machine learning.'
 date: 2023-06-30
 venue: 'Dissertation'
