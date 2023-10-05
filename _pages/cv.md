@@ -27,10 +27,8 @@ Work experience
 ======
 * Vanderbilt University Medical Center, August 2023 - Present
   * Postdoctoral Research Fellow Trainee. Department of Biomedical Informatics.
-
 * Oak Ridge National Laboratory, June 2017 - August 2017
   * Research Intern (HERE Program). Biomedical Computing Division.
-
 * Tennessee Technological University, August 2015 - May 2023
   * PhD Student Mentor (Graduate Research Assistant). Department of Computer Science. (August 2022 - July 2023).
   * Machine Learning Consultant (Graduate Research Assistant). College of Engineering. (August 2022 - May 2023).
@@ -58,18 +56,21 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
+
 Talks
 ======
   <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
   
+
 Teaching
 ======
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
+
 Service and Leadership
 ======
 * Florida Artificial Intelligence Research Society. Track Co-Chair: Artificial Intelligence in Health Informatics Special Track. (August 2023 - )
