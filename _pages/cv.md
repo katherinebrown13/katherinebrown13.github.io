@@ -48,18 +48,21 @@ Full CV available as PDF <a href="/files/CV.pdf">here</a>
 
 
 # Publications
-  <ul style="width: auto; height: 600px; overflow: auto">{% for post in site.publications reversed %}
+  <ul style="width: auto; height: 300px; overflow: auto">
+    {% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
     {% endfor %}</ul>
   
 # Talks
-  <ul style="width: auto; height: 600px; overflow: auto">{% for post in site.talks reversed %}
+  <ul style="width: auto; height: 300px; overflow: auto">
+    {% for post in site.talks reversed %}
     {% include archive-single-talk-cv.html %}
   {% endfor %} </ul>
   
 
 # Teaching
-  <ul style="width: auto; height: 600px; overflow: auto">{% for post in site.teaching reversed %}
+  <ul style="width: auto; height: 300px; overflow: auto">
+    {% for post in site.teaching reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul> 
   
