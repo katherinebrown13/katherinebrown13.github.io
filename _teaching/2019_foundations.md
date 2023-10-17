@@ -1,5 +1,5 @@
 ---
-title: "Teaching experience 2"
+title: "CSC 2710: Foundations of Computer Science"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2019_foundations
