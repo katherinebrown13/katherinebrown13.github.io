@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Katherine (Katie) Brown is a Postdoctoral Research Fellow Trainee in the Department of Biomedical Informatics at Vanderbilt University Medical Center. She received her B.S. in Computer Science in May 2018, her M.S. in Computer Science in May 2021, and her PhD in Engineering in August 2023, all from Tennessee Technological University. She has served on the Student Editorial Board of the Journal of the American Medical Informatics Association in the 2022-2024 cohort. Her research interests include clinical informatics, machine and deep learning, uncertainty quantification in ML/DL, explainable artificial intelligence, and AI evaluation. She is passionate about developing tools to robustly evaluate clinical machine learning models to improve their trustworthiness. 
+Katherine (Katie) Brown is a Postdoctoral Research Fellow Trainee in the Department of Biomedical Informatics at Vanderbilt University Medical Center. She received her B.S. in Computer Science in May 2018, her M.S. in Computer Science in May 2021, and her PhD in Engineering in August 2023, all from Tennessee Technological University. She has served on the Student Editorial Board of the Journal of the American Medical Informatics Association in the 2022-2024 cohort. Her research interests include clinical informatics, machine and deep learning, uncertainty quantification in ML/DL, explainable artificial intelligence, and AI evaluation. She is passionate about improving robustness and trustworthiness of clinical machine learning models through uncertainty quantification and development of rigorous ML evaluation techniques. 
 
 Recent News
 ======
