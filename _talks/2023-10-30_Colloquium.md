@@ -1,5 +1,5 @@
 ---
-title: "Upcoming: A QUEST for Model Assessment: Uncertainty Quantification and Hidden Stratification"
+title: "A QUEST for Model Assessment: Uncertainty Quantification and Hidden Stratification"
 collection: talks
 type: "Talk"
 permalink: /talks/2023-10-30_Colloquium
