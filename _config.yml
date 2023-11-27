@@ -12,7 +12,7 @@ title                    : "Katherine (Katie) Brown, PhD"
 title_separator          : "-"
 name                     : &name "Katie Brown"
 description              : &description "Portfolio for Katie Brown"
-url                      : https://katherinebrown539.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://katherinebrown13.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "katherinebrown13/katherinebrown13.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
@@ -97,7 +97,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "katherinebrown539"
+  github           : "katherinebrown13"
   google_plus      :
   keybase          :
   instagram        :
