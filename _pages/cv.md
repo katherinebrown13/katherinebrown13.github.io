@@ -75,6 +75,7 @@ Full CV available as PDF <a href="/files/CV.pdf">here</a>
 
 # Service and Leadership 
 * Florida Artificial Intelligence Research Society. Track Co-Chair: Artificial Intelligence in Health Informatics Special Track. (August 2023 - )
+* Florida Artificial Intelligence Research Society. Program Committee Member: Explainable, Fair, and Trustworthy AI. (August 2023 - )
 * <i> Journal of the American Medical Informatics Association</i> Student Editorial Board. Member. (January 2022 - December 2023).
 * Committees and Student Organizations at Tennessee Technological University:
   * Graduate Studies Executive Committee. (August 2022 - May 2023).
