@@ -1,6 +1,6 @@
 ---
 title: "Orion Constellation on iPhone"
-excerpt: "I like firsts. Good or bad, they're always memorable. <img src='/images/a1.jpg' width=200>"
+excerpt: "I like firsts. Good or bad, they're always memorable. <img src='/images/a1.jpg' width=500>"
 collection: portfolio
 ---
 
