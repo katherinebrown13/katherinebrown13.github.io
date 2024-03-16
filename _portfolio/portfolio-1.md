@@ -1,7 +1,11 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "Orion Constellation on iPhone"
+excerpt: "I like firsts. Good or bad, they're always memorable. <img src='/images/a1.jpeg'>"
 collection: portfolio
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+Objects: Orion constellation, Hyades and Pleiades star clusters. Maybe Jupiter.
+
+Camera: iPhone 15 Pro Max on a very wobbly Amazon tripod.
+Settings: Stock camera app. Night mode. 30 second exposure.
+Software: Snapseed on iPhone. Los Angeles filter on IG. (Not shown: ~1 hour working with gradients and color levels and curves in GIMP to remove light pollution)
