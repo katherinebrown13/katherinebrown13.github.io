@@ -1,6 +1,6 @@
 ---
 title: "March 10, 2024 - Orion Constellation on iPhone"
-excerpt: "I like firsts. Good or bad, they're always memorable. <img src='/images/a1.jpg' width=500>"
+excerpt: "<img src='/images/a1.jpg' width=500>"
 collection: portfolio
 ---
 
