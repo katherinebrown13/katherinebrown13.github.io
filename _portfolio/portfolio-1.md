@@ -1,11 +1,15 @@
 ---
 title: "Orion Constellation on iPhone"
-excerpt: "I like firsts. Good or bad, they're always memorable. <img src='/images/a1.jpeg'>"
+excerpt: "I like firsts. Good or bad, they're always memorable. <img src='/images/a1.jpg'>"
 collection: portfolio
 ---
+
+![Orion Constellation](images/a1.jpg)
 
 Objects: Orion constellation, Hyades and Pleiades star clusters. Maybe Jupiter.
 
 Camera: iPhone 15 Pro Max on a very wobbly Amazon tripod.
+
 Settings: Stock camera app. Night mode. 30 second exposure.
+
 Software: Snapseed on iPhone. Los Angeles filter on IG. (Not shown: ~1 hour working with gradients and color levels and curves in GIMP to remove light pollution)
