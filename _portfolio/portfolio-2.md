@@ -4,6 +4,9 @@ excerpt: "<img src='/images/a2.jpg' width=500>"
 collection: portfolio
 ---
 
+![Journey to Orion - Pt. 1](/images/a2.jpg)
+
+
 I’m slowly but surely working my way towards capturing the Orion Nebula. My first start-to-end project with my new DSLR! Stars are a tad unfocused, and cloud cover was not my friend. 
 
 Objects: Orion’s Belt 
