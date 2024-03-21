@@ -1,10 +1,10 @@
 ---
 title: "March 19, 2024 - Journey to Orion (Part 2 with Successs)"
-excerpt: "<img src='/images/a3.jpg' width=500>"
+excerpt: "<img src='/images/a3.JPG' width=500>"
 collection: portfolio
 ---
 
-![Journey to Orion - Pt. 2](/images/a3.jpg)
+![Journey to Orion - Pt. 2](/images/a3.JPG)
 
 
 Yes! Yes! Yes! My first shot of the Orion Nebula (annotated in next pic) that I’m satisfied with! It’s hard to believe this is possible with a DSLR and kit lens. 
@@ -23,4 +23,4 @@ Calibration Frames: 30 bias and 30 darks
 Software: Captured with AstroDSLR. Stacked with Deep Sky Stacker and processed with GIMP.
 
 
-![Journey to Orion - Pt. 2 (Annotated)](/images/a3-annotated.jpg)
+![Journey to Orion - Pt. 2 (Annotated)](/images/a3-annotated.JPG)
