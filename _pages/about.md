@@ -13,7 +13,7 @@ Katherine (Katie) Brown is a Postdoctoral Research Fellow Trainee in the Departm
 Recent News
 ======
 <ul style="width: auto; height: 300px; overflow: auto">
-  <li><b>[March 2024]</b>I was nominated for and completed Alan Alda Center for Communicating Science workshop.</li>
+  <li><b>[March 2024]</b> I was nominated for and completed Alan Alda Center for Communicating Science workshop.</li>
   <li><b>[November 2023]</b> I attended AMIA 2023 Annual Symposium to present our paper <i>A QUEST for Model Assessment: Identifying Difficult Subgroups via Epistemic Uncertainty Quantification</i> and poster <i>Assessing the Quality of Uncertainty Calibration</i>.</li>
   <li><b>[August 2023]</b> I began my postdoctoral training at Vanderbilt University Medical Center's Department of Biomedical Informatics.</li>
   <li> <b>[July 2023]</b> Our paper <i>A QUEST for Model Assessment: Identifying Difficult Subgroups via Epistemic Uncertainty Quantification.</i> and poster <i>Assessing the Quality of Uncertainty Calibration</i> were accepted to the American Medical Informatics Association Annual Symposium 2023.</li>
