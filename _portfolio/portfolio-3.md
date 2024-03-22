@@ -14,12 +14,19 @@ I collected the data to generate the image on Tuesday 3/19. Edited this evening 
 I still have much to learn. In this image, my ISO was prob too high (causing noise) and my ad-hoc flat frames were garbage. I’m also trying to find my way around image editing software, so a re-edit may be soon. Finally, 5 minutes of exposure (aka integration time) is apparently peanuts even if it took an hour to take all the photos. So, I’ll definitely be figuring out how to streamline my setup to take more photos.
 
 Objects: Orion Nebula and Orion’s Belt
+
 Capture Date: March 19, 2024
+
 Equipment: Canon T7 w/ 18-55mm, f3.5-5.6 kit lens
+
 Light Pollution Level: Bortle 4 (low-to-medium)
+
 Settings: 55 mm focal length; f5.6
+
 Exposure Time: 150 images x2’’ (5 minutes of integration/exposure time)
+
 Calibration Frames: 30 bias and 30 darks 
+
 Software: Captured with AstroDSLR. Stacked with Deep Sky Stacker and processed with GIMP.
 
 
