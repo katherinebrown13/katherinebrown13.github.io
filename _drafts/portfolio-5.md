@@ -7,6 +7,7 @@ collection: portfolio
 
 
 ![Almost Bode's Galaxy...](/images/almost bode.jpg)
+
 My intention with this image was to capture Bode's Galaxy to change things up from the Orion constellation. It's a bright galaxy, and my planning indicated it had a good chance of showing up pretty with my equipment. That was the goal.
 
 In reality, I pointed my camera a bit to much to the east. At first, I was devasted that I took over 150 images to not get the target I wanted. However, a little bit of [research](nova.astrometry.net) led me to realize that I captured 3 galaxies. One of these galaxies is over 200 million light years away!
