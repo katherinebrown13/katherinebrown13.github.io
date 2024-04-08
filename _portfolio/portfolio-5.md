@@ -1,5 +1,5 @@
 ---
-title: "Happy Little Accidents"
+title: "March 28, 2024 - Happy Little Accidents"
 excerpt: "<img src='/images/almost bode.jpg' width=500>"
 collection: portfolio
 ---
