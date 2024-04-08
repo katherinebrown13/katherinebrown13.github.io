@@ -6,7 +6,7 @@ collection: portfolio
 
 
 
-![Orion](/images/stack1v2.jpg)
+![Orion](/images/stack1v2.png)
 
 Objects: Orion's Belt and Nebula. Also visible: Flame Nebula, Horsehead Nebula, and Running Man Nebula
 Capture Date: March 30, 2024
