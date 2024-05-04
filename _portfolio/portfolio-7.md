@@ -7,7 +7,7 @@ collection: portfolio
 
 
 ![Bode and Cigar Galaxies](/images/bodes-apr29.jpg)
-![Bode and Cigar Galaxies Annotated](/images/bodes-apr29.JPG)
+![Bode and Cigar Galaxies Annotated](/images/bodes-apr29-annotated.JPG)
 
 
 Apparently, March-May is known as “Galaxy Season”, and I now I know why. I mean look at those spiral arms on Bode’s Galaxy. I’ll capture this target again in the near future in a more dedicated shoot.
