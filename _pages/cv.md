@@ -74,6 +74,10 @@ Full CV available as PDF <a href="/files/CV.pdf">here</a>
 * Engineering, Computing, and Technology Spectrum Award: Tennessee Technological University College of Engineering, February 2018
 
 # Service and Leadership 
+* Scientific Program Committees
+  * AMIA 2024 Annual Symposium. (April 2024 - Present)
+* Committees and Departmental Service at Vanderbilt University Medical Center:
+  * DBMI Outstanding Educator Committee – Member (April 2024).
 * Florida Artificial Intelligence Research Society. Track Co-Chair: Artificial Intelligence in Health Informatics Special Track. (August 2023 - )
 * Florida Artificial Intelligence Research Society. Program Committee Member: Explainable, Fair, and Trustworthy AI. (August 2023 - )
 * <i> Journal of the American Medical Informatics Association</i> Student Editorial Board. Member. (January 2022 - December 2023).
