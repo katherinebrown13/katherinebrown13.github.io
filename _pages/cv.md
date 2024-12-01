@@ -74,6 +74,8 @@ Full CV available as PDF <a href="/files/CV.pdf">here</a>
 * Engineering, Computing, and Technology Spectrum Award: Tennessee Technological University College of Engineering, February 2018
 
 # Service and Leadership 
+* Editorial Boards
+  * _Journal of the American Medical Informatics Association_ (January 2025 - December 2027)
 * Scientific Program Committees
   * AMIA 2024 Annual Symposium. (April 2024 - Present)
 * Committees and Departmental Service at Vanderbilt University Medical Center:
