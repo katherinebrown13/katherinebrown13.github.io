@@ -13,8 +13,8 @@ Katherine (Katie) Brown is a Postdoctoral Research Fellow Trainee in the Departm
 Recent News
 ======
 <ul style="width: auto; height: 300px; overflow: auto">
-  <li><b>[January 2025] I began an appointment on the _Journal of the American Medical Informatics Association_ Editorial Board. </b></li>
-  <li><b>[November 2024] I attended AMIA 2024 Annual Symposium to present a paper, an abstract, and participate in a panel. </b></li>
+  <li><b>[January 2025]</b> I began an appointment on the _Journal of the American Medical Informatics Association_ Editorial Board. </li>
+  <li><b>[November 2024]</b> I attended AMIA 2024 Annual Symposium to present a paper, an abstract, and participate in a panel. </li>
   <li><b>[June 2024]</b> I attended the Biomedical Data Science Innovation Lab in San Diego, CA. </li>
   <li><b>[March 2024]</b> I was nominated for and completed Alan Alda Center for Communicating Science workshop.</li>
   <li><b>[November 2023]</b> I attended AMIA 2023 Annual Symposium to present our paper <i>A QUEST for Model Assessment: Identifying Difficult Subgroups via Epistemic Uncertainty Quantification</i> and poster <i>Assessing the Quality of Uncertainty Calibration</i>.</li>
