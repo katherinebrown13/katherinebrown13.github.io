@@ -8,12 +8,12 @@ redirect_from:
   - /about.html
 ---
 
-Katherine (Katie) Brown is a Postdoctoral Research Fellow Trainee in the Department of Biomedical Informatics at Vanderbilt University Medical Center. She received her B.S. in Computer Science in May 2018, her M.S. in Computer Science in May 2021, and her PhD in Engineering (Computer Science) in August 2023, all from Tennessee Technological University. She has served on the Student Editorial Board of the Journal of the American Medical Informatics Association in the 2022-2024 cohort. Her research interests are multi-faceted. In Computer Science, she is interested in machine and deep learning, uncertainty quantification in ML/DL, explainable artificial intelligence, and AI auditing and reliability. In Biomedical Informatics, she is interested in health data science, clinical informatics, informatics to promote health equity, and reliability of LLMs.
+Katherine (Katie) Brown is a Postdoctoral Research Fellow Trainee in the Department of Biomedical Informatics at Vanderbilt University Medical Center. She received her B.S. in Computer Science in May 2018, her M.S. in Computer Science in May 2021, and her PhD in Engineering (Computer Science) in August 2023, all from Tennessee Technological University. She has served on the Student Editorial Board of the Journal of the American Medical Informatics Association in the 2022-2024 cohort. Her research interests are multi-faceted. In Computer Science, she is interested in machine and deep learning, uncertainty quantification in ML/DL, explainable artificial intelligence, and AI auditing and reliability. In Biomedical Informatics, she is interested in optimizing LLMs for clinical tasks, AI and informatics in rural healthcare, and human-AI collaboration.
 
 Recent News
 ======
 <ul style="width: auto; height: 300px; overflow: auto">
-  <li><b>[January 2025]</b> I began an appointment on the _Journal of the American Medical Informatics Association_ Editorial Board. </li>
+  <li><b>[January 2025]</b> I began an appointment on the <i>Journal of the American Medical Informatics Association</i> Editorial Board. </li>
   <li><b>[November 2024]</b> I attended AMIA 2024 Annual Symposium to present a paper, an abstract, and participate in a panel. </li>
   <li><b>[June 2024]</b> I attended the Biomedical Data Science Innovation Lab in San Diego, CA. </li>
   <li><b>[March 2024]</b> I was nominated for and completed Alan Alda Center for Communicating Science workshop.</li>
